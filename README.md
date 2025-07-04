@@ -1,1 +1,1 @@
-"This is a description of my repo" 
+"## GitHubCloneProject\nObjective: Practice Git collaboration with branching, merging, and resolving conflicts." 
